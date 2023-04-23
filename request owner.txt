@@ -1,0 +1,5 @@
+npm install aos --save
+npm install bootstrap --save
+npm install bootstrap-icons --save
+npm install remixicon --save
+npm install boxicons --save
